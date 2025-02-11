@@ -123,7 +123,7 @@ my-app/
 │── package.json                # JavaScript Dependencies
 │── .env                        # Environment Configurations
 │── .gitignore                  # Git Ignore Rules
-
+```
 # **🏥 تطبيق إدارة شفتات الممرضات**
 
 ## **🔹 نظرة عامة**
