@@ -58,7 +58,8 @@ This application is designed to help nurses efficiently manage their hospital wo
 
 ## **🔹 Tech Stack 🛠️**
 ### **1️⃣ Backend & Frontend**
-- **Laravel** with **Livewire** for an interactive experience.
+- **Laravel** for backend.
+- **Vue 3** for frontend.
 - **MySQL** for the database.
 
 ### **2️⃣ UI Framework**
